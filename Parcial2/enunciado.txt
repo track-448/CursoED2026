@@ -1,0 +1,9 @@
+Jhojan Fernando Castro Hurtado
+Josué David Calvo de la Pava
+
+
+Una concesionaria creará un sistema para administrar las ventas de autos, cada cliente se registra con nombre, cedula y teléfono. el orden de atención es el mismo orden de llegada, primero en entrar es el primero en ser atendido y iniciar su proceso de compra (se usa FIFO).
+
+Cuando la compra termina, los vehículos están almacenados temporalmente en un parqueadero donde se encuentran posicionados uno detrás de otro, entonces el ultimo coche que entro sería el primero en salir para no mover los demás (se usa LIFO).
+
+FIFO para administrar la atención de los clientes y LIFO para controlar la entrega de vehículos desde el parqueadero.
